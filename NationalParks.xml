@@ -20,7 +20,7 @@
 
 <!--2-->
     <NationalPark Rating="5.0">
-        <Name>Casa Grande Ruinsy</name>
+        <Name>Casa Grande Ruins</name>
         <Phone>928-674-5500</Phone>
         <Phone>(520) 723-7209</Phone>
         <Address NearestAirport="PHX">
@@ -51,7 +51,7 @@
     <NationalPark>
         <Name>Coronado</name>
         <Phone>520 366-5515</Phone>
-        <Address NearestAirport="PHX">
+        <Address>
             <Number>4101</Number>
             <Street>E Montezuma Canyon Road</Street>
             <City>Hereford</City>
@@ -144,6 +144,22 @@
         </Address>
 
     </NationalPark>
+
+   <!--11-->   
+    <NationalPark>
+        <Name>Tumacacaori</name>
+        <Phone>520-733-5153</Phone>
+        <Address NearestAirport="PHX">
+            <Number>8067</Number>
+            <Street>S Old Spanish Trail</Street>
+            <City>Tumacacori</City>
+            <State>AZ</State>
+            <Zip>85640</Zip>
+        </Address>
+
+    </NationalPark>
+
+
 
 
 
