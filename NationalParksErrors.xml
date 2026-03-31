@@ -64,7 +64,7 @@
     <NationalPark>
         <Name>Fort Bowie</Name>
         <Phone>520-549-6751</Phone>
-        <Address NearestAirport="PHX">
+        <Address>
             <Number>158</Number>
             <Street>P.O Box</Street>
             <City>Bowie</City>
