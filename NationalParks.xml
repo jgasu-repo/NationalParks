@@ -92,10 +92,12 @@
  <!--7-->   
     <NationalPark>
         <Name>Grand Canyon</Name>
-        <Phone>928-638-7888</Phone>
-        <Address NearestAirport="PHX">
-            <Number>129</Number>
-            <Street>P.O Box</Street>
+        <Phone>928-638-7496</Phone>
+        <Phone>888-297-2757</Phone>
+        <Phone>866-499-2574</Phone>
+        <Address NearestAirport="Flagstaff">
+            <Number>S Entrance Road</Number>
+            <Street>8</Street>
             <City>Grand Canyon</City>
             <State>AZ</State>
             <Zip>86023</Zip>
@@ -146,6 +148,9 @@
     </NationalPark>
 
 </NationalParks>
+
+
+
     
 
     
