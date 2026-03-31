@@ -6,7 +6,7 @@
 
 <!--1-->
     <NationalPark>
-        <Name>Canyon de Chelly</name>
+        <Name>Canyon de Chelly</Name>
         <Phone>928-674-5500</Phone>
         <Address NearestAirport="PHX">
             <Number>588</Number>
@@ -20,7 +20,7 @@
 
 <!--2-->
     <NationalPark>
-        <Name>Casa Grande Ruinsy</name>
+        <Name>Casa Grande Ruins</Name>
         <Phone>928-674-5500</Phone>
         <Phone>(520) 723-7209</Phone>
         <Address NearestAirport="PHX">
@@ -35,7 +35,7 @@
 
 <!--3-->
     <NationalPark Rating="4.8">
-        <Name>Chiricahua</name>
+        <Name>Chiricahua</Name>
         <Phone>520 824-3560</Phone>
         <Phone>520-555-7755</Phone>
         <Address NearestAirport="PHX">
@@ -49,7 +49,7 @@
 
 <!--4-->
     <NationalPark>
-        <Name>Coronado</name>
+        <Name>Coronado</Name>
         <Address NearestAirport="PHX">
             <Number>4101</Number>
             <Street>E Montezuma Canyon Road</Street>
@@ -62,7 +62,7 @@
 
 <!--5-->
     <NationalPark>
-        <Name>Fort Bowie</name>
+        <Name>Fort Bowie</Name>
         <Phone>520-549-6751</Phone>
         <Address NearestAirport="PHX">
             <Number>158</Number>
@@ -76,7 +76,7 @@
 
 <!--6-->
     <NationalPark>
-        <Name>Glen Canyon</name>
+        <Name>Glen Canyon</Name>
         <Phone>928 608-62001</Phone>
         <Address NearestAirport="PHX">
             <Number>1507</Number>
@@ -90,8 +90,8 @@
 
  <!--7-->   
     <NationalPark>
-        <Name>Grand Canyon</name>
-        <Name>The Grand Canyon</name>
+        <Name>Grand Canyon</Name>
+        <Name>The Grand Canyon</Name>
         <Phone>928-638-7888</Phone>
         <Address NearestAirport="PHX">
             <Number>129</Number>
@@ -105,7 +105,7 @@
 
  <!--8--> 
     <NationalPark>
-        <Name>Lake Meade</name>
+        <Name>Lake Meade</Name>
         <Phone>702-293-8990</Phone>
         <Address NearestAirport="LAS">
             <Number>601</Number>
@@ -119,7 +119,7 @@
 
  <!--9-->   
     <NationalPark>
-        <Name>Navajo</name>
+        <Name>Navajo</Name>
         <Phone>928-672-2700</Phone>
         <Address NearestAirport="PHX">
             <Number>7717</Number>
@@ -132,7 +132,7 @@
 
      <!--10-->   
     <NationalPark>
-        <Name>Sagauro</name>
+        <Name>Sagauro</Name>
         <Phone>520-733-5153</Phone>
         <Address NearestAirport="PHX">
             <Number>3693</Number>
